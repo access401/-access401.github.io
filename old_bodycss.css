@@ -1,0 +1,6 @@
+body {
+  background-image: url('background_images/UT_panoramio.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
